@@ -1,0 +1,44 @@
+Here is a detailed user persona for u/kojied based on the provided Reddit posts and comments:
+
+**Name:** Kojied (a pseudonym, but we'll refer to him as "Kojied" in this persona)
+
+**Interests:**
+
+* Technology, particularly spatial computing and 3D mapping
+* Film and movies, especially coming-of-age stories for Gen-Z
+* Gaming, specifically Manor Lords and other simulation games
+* New York City and its culture
+
+Cited from: [POST 6] "There's so many coming of age movies for boomers and millennials, what about for gen-Z?" (https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/)
+
+* Entrepreneurship and small business, as evident from his interest in Vision Air 5 and spatial computing
+
+Cited from: [POST 9] "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" (https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/)
+
+* Hobbies and entertainment, including music and dancing
+
+Cited from: [POST 1] "I feel like I was at a college basement party. Today when I went to the bar and all of a sudden I felt like I was at a college basement party." (https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+
+**Personality:**
+
+* Kojied is an adaptable individual who can navigate different environments, as seen in his experience with the sudden influx of young people at a bar he frequents.
+Cited from: [POST 1] "As I walk back home, all of a sudden I realize that there were now tens of thousands of 18-year-old 19-year-old 20-year-olds... Naturally I felt violated." (https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+
+* He is open-minded and willing to learn from others, as evident in his questions about spatial computing and 3D mapping.
+Cited from: [POST 7] "Spacial tours with 3D map and 360˚ video" (https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/)
+
+* Kojied is also a reflective individual who can step back and analyze situations, as seen in his musings on the nature of New York City.
+Cited from: [POST 1] "As a matter fact, there are bunch of people have done this for generations where their parents and their grandparents and their grandparents all met in New York... Who am I to judge how others enjoy this adventurous city?" (https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+
+**Profession:**
+
+* Kojied is likely an iOS developer, as he mentions building in VisionOS and seeking resources for learning about spatial computing.
+Cited from: [POST 8] "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)
+
+**Other characteristics:**
+
+* Kojied is a thoughtful and empathetic individual, as seen in his comments about gaming and food management.
+Cited from: [COMMENT 14] "I do too but I rarely finish a game haha. Too little late-game content." (https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/)
+Cited from: [COMMENT 19] "Eggs I believe each plot only produces one per month, so it's helpful, but won't be sufficient to maintain food diversity." (https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/)
+* He is willing to share his experiences and offer advice to others.
+Cited from: [COMMENT 20] "I build my cities close to the borders of others, that way I'm not managing multiple cities at once." (https://reddit.com/r/ManorLords/comments/1lg0qii/the_ability_to_combine_regions_or_make_aivassal/myulv47/)
